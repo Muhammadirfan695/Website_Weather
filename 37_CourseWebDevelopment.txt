@@ -1,0 +1,20 @@
+1 - mkdir expressDev
+2 - outside folder cd ..
+3 - cd expressDev inside folder
+4 -  mkdir src
+5- type nul > app.js
+6-  npm init => package.json install 
+7- npm i express 
+
+8 - In EXPRESSWEB 
+9 - mkdir public (css, js)
+10- in folder css , type nul > style.css
+11- nodemon src/30_31_3_index.js  -e js,hbs
+12- npm i hbs-cli
+
+13 Bhai Bilal
+nodemon 
+ package.js 
+ nodemon app.js
+ nmp start
+
